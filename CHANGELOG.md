@@ -1,3 +1,7 @@
+## 1.0.4
+
+- Changed http package version to any to avoid conflicts with applications with different http versions
+
 ## 1.0.3
 
 Breaking Changes:
