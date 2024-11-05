@@ -1,6 +1,6 @@
 ## 1.0.4
 
-- Changed http package version to any to avoid conflicts with applications with different http versions
+- Changed http and pinenacl packages versions to any to avoid conflicts with applications with different http and pinenacl versions
 
 ## 1.0.3
 
